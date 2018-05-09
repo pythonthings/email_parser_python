@@ -8,4 +8,5 @@ THE PARSER WILL GO THROUGH THE FIES AND RETURN THE SUBJECT AND BODIES OF THE VAR
 Problems: 
 
 need to remove saluations
+
 need to remove signatures
