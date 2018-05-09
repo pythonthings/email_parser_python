@@ -1,2 +1,11 @@
 # email_parser_python
-Parses .EML files 
+Parses .EML files from the outlook mailbox.
+
+THE LOADING FUNCTION IS VERY SPECIFIC SO PLEASE TAE CARE AND USE YOUR OWN IMPLEMENTATION OF THE LOADING.
+
+THE PARSER WILL GO THROUGH THE FIES AND RETURN THE SUBJECT AND BODIES OF THE VARIOUS REPLIES.
+
+Problems: 
+
+need to remove saluations
+need to remove signatures
